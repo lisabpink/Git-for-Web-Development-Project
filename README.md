@@ -6,16 +6,16 @@ This project consists of two parts:
 ## Part One:
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
 
-- [ ] Create your own version of this repo - Fork
-- [ ] Add your TL as a collaborator
-- [ ] Clone this repo
-- [ ] Create a branch `git checkout -b 'firstName-lastName'`
-  - [ ] Add a file to the project called `yourFirstName-yourLastName`.txt. This file can contain anything.
-  - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
-- [ ] Create a Pull-Request to submit your work
-  - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
-  - [ ] Add your TL as a reviewer on the Pull-Request
-- [ ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+- [ DONE ] Create your own version of this repo - Fork
+- [ DONE ] Add your TL as a collaborator
+- [ DONE ] Clone this repo
+- [ DONE ] Create a branch `git checkout -b 'firstName-lastName'`
+- [ DONE ] Add a file to the project called `yourFirstName-yourLastName`.txt. This file can contain anything.
+- [ DONE ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
+- [ DONE ] Create a Pull-Request to submit your work
+- [ DONE ] Use your own student fork as the base (compare across forks, base-fork -> master).
+- [ DONE ] Add your TL as a reviewer on the Pull-Request
+- [ DONE ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
 
 ## Part Two:
 Go back and follow the same steps for your [UI-III-Flexbox project](https://github.com/LambdaSchool/UI-III-Flexbox) and your [User Interface - Great Idea Project](https://github.com/LambdaSchool/User-Interface).
